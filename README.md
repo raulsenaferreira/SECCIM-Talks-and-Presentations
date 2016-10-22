@@ -30,3 +30,6 @@ Exemplo:
 [TechJunior - Empresa Júnior de Ciência da Computação](https://github.com/raulsenaferreira/Talks-and-Presentations/blob/master/Apresenta%C3%A7%C3%A3o%20Inicial%20da%20EJ%20-%202015.pdf)
 
 [Minicurso Go](https://github.com/mendesmiguel/minicurso-go-ufrrj)
+
+### SECCIM 6 - 2016
+[Mapa das OSCs: Desafios e arquitetura do sistema mais importante do IPEA](https://github.com/raulsenaferreira/Talks-and-Presentations/blob/master/Talk%20-%20DevWeek.pdf)
