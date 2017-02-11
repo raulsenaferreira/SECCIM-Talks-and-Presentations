@@ -1,13 +1,10 @@
 # SECCIM - Talks and Presentations
 Talks and presentations from Academic Week of Computing performed at Universidade Federal Rural do Rio de Janeiro
 
-# SECCIM - Palestras e apresentações
-Talks and presentations from Academic Week of Computing performed at Universidade Federal Rural do Rio de Janeiro
-
-## Como contribuir?
-Basta dar um fork no projeto, adicionar o título e o link da sua palestra/apresentação, em seguida clique em preview changes(opcional) e dê um pull request para o repositório.
-Exemplo:
-[Titulo da minha palestra](https://github.com/raulsenaferreira)
+## How to support?
+Forking project and adding title and link of your talk/presentation, after that, click in preview changes(optional) and give a pull request to this repository.
+Example:
+[My talk](https://github.com/raulsenaferreira)
 
 
 ### SECCIM 1 - 2010
